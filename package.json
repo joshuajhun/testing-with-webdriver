@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/joshuajhun/testing-with-webdriver/issues"
   },
-  "homepage": "https://github.com/joshuajhun/testing-with-webdriver#readme"
+  "homepage": "https://github.com/joshuajhun/testing-with-webdriver#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
 }
