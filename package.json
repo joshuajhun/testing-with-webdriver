@@ -1,0 +1,23 @@
+{
+  "name": "testing-with-webdriver",
+  "version": "1.0.0",
+  "description": "learn how to drive your development with tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuajhun/testing-with-webdriver.git"
+  },
+  "keywords": [
+    "webdriver",
+    "tests"
+  ],
+  "author": "jhun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuajhun/testing-with-webdriver/issues"
+  },
+  "homepage": "https://github.com/joshuajhun/testing-with-webdriver#readme"
+}
